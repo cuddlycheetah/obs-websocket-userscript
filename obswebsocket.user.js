@@ -1,6 +1,5 @@
 // ==UserScript==
-// @name         OBSflix
-// @namespace    http://tampermonkey.net/
+// @name         OBS Websocket
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
